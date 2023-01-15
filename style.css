@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+section{
+    height: 700px;
+}
+
+
+.half-width{
+    width: 500px;
+    float: left;
+    padding: 3%;
+}
+
+.half-width img{
+    width: 90%;
+    padding-top: 40px;
+}
+
+#name{
+    color: rgb(211, 34, 93);
+}
+
+.half-width h1{
+    font-size: 60px;
+}
+
+.hire-btn{
+    color: white;
+    padding-top: 20px;
+    text-decoration: none;
+    padding: 10px 20px;
+    /* background-color: rgb(211, 34, 93); */
+    background-image: linear-gradient( salmon, tomato);
+    border-radius: 10px;
+}
+
+#intro{
+    font-weight: 400;
+}
+
+.Header{
+    background-image: url(resourse/personal-website/header-bg.png);
+    background-size: cover;
+    
+}
+
+.float{
+    float: right;
+    padding-right: 4%;
+}
+
+#mar{
+    margin-top: 70px;
+}
+
+.biography{
+    background-image: url(resourse/personal-website/biography-bg.png);
+    background-size: cover;
+
+}
+
+
+
+#latest-head{
+    font-size: 60px;
+    text-align: center;
+}
+
+.work-img img{
+    width: 30%;
+    padding: 1.5%;
+    justify-content: space-around;
+    justify-content: center;
+    /* display: flex; */
+    margin: 0 auto;
+}
+
+.latest-work{
+    background-image: url(resourse/personal-website/latest-work-bg.png);
+    background-size: cover;
+}
+
+
+.client{
+    text-align: center;
+    background-image: url(resourse/personal-website/footer-bg.png);
+    background-size: cover;
+}
+
+
+.div h1{
+    font-size: 40px;
+}
+
+.div h3{
+    font-weight: 900;
+    font-size: 15px;
+}
+
+#btn{
+    text-decoration: none;
+    padding: 30px 30px;
+    background-image: linear-gradient(salmon, tomato);
+    color: white;
+}
+
+footer{
+    margin-top: 250px;
+}
+
+
+
